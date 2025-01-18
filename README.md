@@ -79,11 +79,11 @@ If you'd like to edit or extend the project:
 1. Clone the repository as shown above.
 2. Use a code editor like VS Code to modify the files.
 3. To view changes live, use a simple local server:
-  - With Python:
-  ```bash
-  python -m http.server
-  ```
-  - With VS Code’s Live Server extension.
+    - With Python:
+    ```bash
+    python -m http.server
+    ```
+   - With VS Code’s Live Server extension.
 
 ---
 
